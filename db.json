@@ -1,0 +1,34 @@
+{
+  "Assinaturas":[
+      {
+          "básica": 50.00,
+          "avançada": 200.00,
+          "ganhadora": 120.00,
+          "total": 150.00
+      }
+  ],
+  "suplementos":[
+      {
+          "whey": 120.00,
+          "BCAA": 200.00,
+          "creatina": 160.00,
+          "ovo": 210.00
+      }
+  ],
+  "esportes":[
+      {
+          "futebol": 10.00,
+          "natação": 25.00,
+          "capoeira": 30.00,  
+          "luta livre": 60.00
+      }
+  ],
+  "frutas":[
+      {   
+          "banana":8.00,
+          "uva":90.00,
+          "maçã": 110.00,
+          "pera":100.00
+      }
+  ]
+}
